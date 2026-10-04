@@ -4,6 +4,8 @@
 
 完整的開發紀錄在 **[chung223.github.io](https://chung223.github.io/)**：每個專案的 commit 熱力圖、最後更新時間，以及最近改了什麼。
 
+想聊合作或工作機會，歡迎從 **[LinkedIn](https://www.linkedin.com/in/weichung-lai-011841300/)** 找我。
+
 <a href="https://chung223.github.io/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://chung223.github.io/skyline-dark.svg">
